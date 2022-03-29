@@ -12,3 +12,5 @@ RandomlyPartitionTransforms: Generate random training and testing partitions of 
 PartitionForExtrapolation: Separate out the frames on edge of the video for testing
 
 MakeGIFs: auxillary utility to display results as gifs
+
+Dockerfile: might be needed for setting up NeRF on non-colab environments
